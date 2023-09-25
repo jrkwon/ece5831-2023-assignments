@@ -14,3 +14,8 @@
   ```bash
   mkdir assignment-1
   ```
+
+## How to synchronize your local repo with GitHub remote repo
+
+- Click `Source Control`
+- Click `Initialize Repository`
