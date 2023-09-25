@@ -20,3 +20,8 @@
 - Click `Source Control`
 - Click `Initialize Repository`
 - Add changes to the staged area by clicking `+` buttons on the tab of `Changes`
+- Commit the files in the staged area by clicking `Commit` with a message (mandatory).
+- Click `Publich Brach`. This will make `git push`.
+- Select `private repo` for this repo.
+- If everything successfully works, you will see a button, `Open GitHub`. Click it.
+- Then, you will see your `ece5831-2023-assignments` GitHub repo.
