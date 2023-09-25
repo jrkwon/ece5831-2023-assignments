@@ -19,3 +19,4 @@
 
 - Click `Source Control`
 - Click `Initialize Repository`
+- Add changes to the staged area by clicking `+` buttons on the tab of `Changes`
